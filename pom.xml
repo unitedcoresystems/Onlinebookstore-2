@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>onlinebookstore</groupId>
 	<artifactId>onlinebookstore</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RELEASE</version>
 	<packaging>war</packaging>
 	<description>Online book Store</description>
 
@@ -46,7 +46,7 @@
 	
              <build>
 		<sourceDirectory>src/main/java</sourceDirectory>
-		<finalName>core</finalName>
+		<finalName>online_bookstore</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
